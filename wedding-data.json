@@ -28,6 +28,7 @@
             "venue": "Cooperative Hall & Ground, Near Patliputra Golambar, Patna",
             "note": "Followed by Dinner",
             "googleMapsUrl": "https://maps.google.com/?q=Patliputra+Cooperative+Ground,+New+Patliputra+Colony,+Patna",
+            "mapImage": "assets/images/map.png",
             "showLocation": true,
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pratyush+%26+Muskaan+-+Tilak+Ceremony&dates=20261129T170000/20261129T230000&details=Tilak+Ceremony+followed+by+Dinner&location=Cooperative+Hall+%26+Ground,+Near+Patliputra+Golambar,+Patna&ctz=Asia/Kolkata"
         },
